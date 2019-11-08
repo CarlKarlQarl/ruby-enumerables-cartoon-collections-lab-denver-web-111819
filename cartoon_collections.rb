@@ -18,4 +18,4 @@ def find_the_cheese# code an argument here
 end
 
 cheese_types = ["cheddar", "gouda", "camembert"]
-puts  summon_captain_planet(cheese_types)
+puts  "cats".length
